@@ -3,8 +3,8 @@
 ## Goal
 Mutual education, networking, fun
 
-## Date
-September 22nd till September 24th
+## Save The Date
+September 22nd till September 24th - [ics calendar entry](https://raw.githubusercontent.com/michael-spengler/sap-tools-hackathon-2021/main/SAP%20Tools%20Hackathon.ics)
 
 ## Registration List
 tbd
