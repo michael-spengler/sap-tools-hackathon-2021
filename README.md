@@ -20,3 +20,14 @@ You will be able to join the event via this [Airmeet Link](https://www.airmeet.c
 | Deep Learning |||
 | Chat Bots / NLP |||
 | DLT |||
+| Contributor Assistant |||
+
+
+### Deep Learning
+
+### Chat Bots / NLP
+The challenge is to connect many Chat Bot Development Frameworks and Libraries with the creative commons educational training data. A first example is the connection between the [Wirtschaftsinformatik](https://github.com/fancy-flashcard/wirtschaftsinformatik) Training Data with the [CAI](https://cai.tools.sap/) via [this repository](https://github.com/michael-spengler/faq-synch-hackathon-prep).
+
+### Distributed Ledger Technology
+
+### Contributor Assistant
