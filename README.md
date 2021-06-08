@@ -17,10 +17,10 @@ You will be able to join the event via this [Airmeet Link](https://www.airmeet.c
 
 | Topic | Interested People | Communication Channel |
 |----------------------|----------|----------|
-| Deep Learning |||
-| Chat Bots / NLP |||
-| DLT |||
-| Contributor Assistant |||
+| Deep Learning | | [Telegram Channel](https://t.me/joinchat/-yVHTNc4I91kMDgy) |
+| Chat Bots / NLP | | [Telegram Channel](https://t.me/joinchat/-2PEqpvVNdg3MmIy)|
+| Distributed Ledger Technology | | [Telegram Channel](https://t.me/joinchat/_YrYJR1kEK5kZGFi) |
+| Contributor Assistant | | [Telegram Channel](https://t.me/joinchat/ubxm6GEcPaRiNjAy) |
 
 
 ### Deep Learning
