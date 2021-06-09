@@ -32,3 +32,11 @@ The challenge is to connect many Chat Bot Development Frameworks and Libraries w
 ### Distributed Ledger Technology
 
 ### Contributor Assistant
+
+
+### Health AI
+Classification  
+1. Food  
+2. Distance  
+
+
