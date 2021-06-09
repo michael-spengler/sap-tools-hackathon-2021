@@ -21,6 +21,7 @@ You will be able to join the event via this [Airmeet Link](https://www.airmeet.c
 | Chat Bots / NLP | | [Telegram Channel](https://t.me/joinchat/-2PEqpvVNdg3MmIy)|
 | Distributed Ledger Technology | | [Telegram Channel](https://t.me/joinchat/_YrYJR1kEK5kZGFi) |
 | Contributor Assistant | | [Telegram Channel](https://t.me/joinchat/ubxm6GEcPaRiNjAy) |
+| Health AI | | [Telegram Channel](https://t.me/joinchat/y2Ktte2Ubh05NGYy) |
 
 
 ### Deep Learning
